@@ -61,7 +61,7 @@ O grafo é compilado e executado com o método `.invoke()` sobre um dicionário 
 ### 5. Fluxo de Decisão dos Agentes
 
 <div align="center">
-<img src="https://github.com/gustavoptavares/agente_nl2sql/blob/main/Fluxo%20de%20decisao.png" alt="Fluxo do Agente" width="500"/>
+<img src="https://github.com/gustavoptavares/agente_newsletter/blob/main/Fluxo%20de%20Decisao.png" alt="Fluxo do Agente" width="300"/>
 </div>
 
 | Agente      | Critério de Decisão                     | Ação em Caso de Falha                          |
@@ -115,5 +115,13 @@ streamlit run nome_do_arquivo.py
 **Tela do Deploy**
 
 <p align="center">
-  <img src="https://github.com/gustavoptavares/agente_nl2sql/blob/main/Deploy%201.jpg" alt="Imagem 1" width="500"/>
+  <img src="https://github.com/gustavoptavares/agente_newsletter/blob/main/Deploy%201.jpg" alt="Imagem 1" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/gustavoptavares/agente_newsletter/blob/main/Deploy%202.jpg" alt="Imagem 1" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/gustavoptavares/agente_newsletter/blob/main/Deploy%203.jpg" alt="Imagem 1" width="500"/>
 </p>
